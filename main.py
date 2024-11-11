@@ -40,7 +40,7 @@ def main():
             if key == ord('s'):
                 save_incremented_filename(args['image'], new_image)
 
-            # If the user presses 'q', break the loop and close
+            # If the user presses 'q', terminate
             elif key == ord('q'):
                 break
 
