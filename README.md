@@ -6,7 +6,6 @@ This project applies a lomography filter to an inputted picture, and saves the o
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Arguments](#arguments)
 
 ## Installation
 
